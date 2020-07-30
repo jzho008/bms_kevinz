@@ -1,0 +1,197 @@
+{
+	"property": {
+		"name": "Lake Side Cottages",
+		"currency": "NZD",
+		"tax": "15",
+		"tax-inclusive": true
+	},
+	"rooms": [{
+			"name": "Cottage One",
+			"bedrooms": 3,
+			"maxguests": 6,
+			"tax-inclusive": true
+		},
+		{
+			"name": "Cottage Two",
+			"bedrooms": 2,
+			"maxguests": 4,
+			"tax-inclusive": false
+		}
+	],
+	"rates": [{
+			"room_name": "Cottage One",
+			"start_date": "2020-08-01",
+			"end_date": "2020-08-31",
+			"rate": 250
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-09-01",
+			"end_date": "2020-10-31",
+			"rate": 200
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-01",
+			"end_date": "2020-08-18",
+			"rate": 300
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-18",
+			"end_date": "2020-10-31",
+			"rate": 275
+		}
+	],
+	"availability": [{
+			"room_name": "Cottage One",
+			"start_date": "2020-08-01",
+			"end_date": "2020-08-12",
+			"available": true
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-08-12",
+			"end_date": "2020-08-15",
+			"available": false
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-08-15",
+			"end_date": "2020-08-26",
+			"available": true
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-08-26",
+			"end_date": "2020-08-31",
+			"available": false
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-08-31",
+			"end_date": "2020-09-13",
+			"available": true
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-09-13",
+			"end_date": "2020-09-19",
+			"available": false
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-09-19",
+			"end_date": "2020-09-20",
+			"available": true
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-09-20",
+			"end_date": "2020-09-31",
+			"available": false
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-09-31",
+			"end_date": "2020-10-01",
+			"available": true
+		},
+		{
+			"room_name": "Cottage One",
+			"start_date": "2020-10-01",
+			"end_date": "2020-11-31",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-01",
+			"end_date": "2020-08-06",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-06",
+			"end_date": "2020-08-11",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-11",
+			"end_date": "2020-08-15",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-15",
+			"end_date": "2020-08-16",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-16",
+			"end_date": "2020-08-19",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-08-19",
+			"end_date": "2020-09-01",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-09-01",
+			"end_date": "2020-09-05",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-09-05",
+			"end_date": "2020-09-11",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-09-11",
+			"end_date": "2020-09-17",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-09-17",
+			"end_date": "2020-09-22",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-09-22",
+			"end_date": "2020-09-30",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-09-30",
+			"end_date": "2020-10-12",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-10-12",
+			"end_date": "2020-10-18",
+			"available": false
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-10-18",
+			"end_date": "2020-11-01",
+			"available": true
+		},
+		{
+			"room_name": "Cottage Two",
+			"start_date": "2020-11-01",
+			"end_date": "2020-11-31",
+			"available": false
+		}
+	]
+}

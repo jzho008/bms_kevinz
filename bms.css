@@ -1,0 +1,41 @@
+
+.datepicker,
+.table-condensed {
+    width: 300px;
+    height:300px;
+ }
+ 
+ .table-condensed td {
+    text-align: center;
+    border: 1px solid #c8c8c8;
+    padding: 2px;
+    margin: 2px;
+}
+
+.table-condensed .disabled {
+    color: red;
+}
+
+.table-condensed th {
+    text-align: center;
+    font-size: 120%;
+
+}
+
+.table-condensed .prev, .table-condensed .next  {
+    font-size: 150%;
+}
+
+.holder {
+    width: 80%;
+}
+.cart {
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.cart th {
+    background-color: #c8c8c8 !important;
+}
+.cart .button-group {
+    background-color: white !important;
+}
